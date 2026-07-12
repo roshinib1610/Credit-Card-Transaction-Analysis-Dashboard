@@ -1,6 +1,6 @@
 **📊 Credit card Transaction Analysis**
 **Overview**
-This project focuses on analyzing 50,000+ financial transaction records using Microsoft Excel to uncover valuable business insights. An interactive dashboard was created to visualize key performance indicators (KPIs), customer spending behavior, merchant performance, transaction trends, and revenue distribution across different categories and age groups.
+This project focuses on analyzing 50,000+ Credit card transaction records using Microsoft Excel to uncover valuable business insights. An interactive dashboard was created to visualize key performance indicators (KPIs), customer spending behavior, merchant performance, transaction trends, and revenue distribution across different categories and age groups.
 The dashboard enables users to explore the data dynamically using slicers and provides a clear overview of business performance for informed decision-making.
 
 **🎯 Objectives**
